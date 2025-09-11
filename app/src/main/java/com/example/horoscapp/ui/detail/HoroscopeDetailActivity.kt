@@ -10,8 +10,18 @@ import androidx.lifecycle.repeatOnLifecycle
 import androidx.navigation.navArgs
 import com.example.horoscapp.R
 import com.example.horoscapp.databinding.ActivityHoroscopeDetailBinding
-import com.example.horoscapp.domain.model.HoroscopeModel
-import com.example.horoscapp.domain.model.HoroscopeModel.*
+import com.example.horoscapp.domain.model.HoroscopeModel.Aquarius
+import com.example.horoscapp.domain.model.HoroscopeModel.Aries
+import com.example.horoscapp.domain.model.HoroscopeModel.Cancer
+import com.example.horoscapp.domain.model.HoroscopeModel.Capricorn
+import com.example.horoscapp.domain.model.HoroscopeModel.Gemini
+import com.example.horoscapp.domain.model.HoroscopeModel.Leo
+import com.example.horoscapp.domain.model.HoroscopeModel.Libra
+import com.example.horoscapp.domain.model.HoroscopeModel.Pisces
+import com.example.horoscapp.domain.model.HoroscopeModel.Sagittarius
+import com.example.horoscapp.domain.model.HoroscopeModel.Scorpio
+import com.example.horoscapp.domain.model.HoroscopeModel.Taurus
+import com.example.horoscapp.domain.model.HoroscopeModel.Virgo
 import dagger.hilt.android.AndroidEntryPoint
 import kotlinx.coroutines.launch
 

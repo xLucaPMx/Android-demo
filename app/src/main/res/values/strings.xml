@@ -20,4 +20,29 @@
     <string name="aquarius">Aquarius</string>
     <string name="pisces">Pisces</string>
 
+    <string name="share">Share</string>
+
+    <string name="luck_0">A surprise encounter will bring you inspiration.</string>
+    <string name="luck_1">Be cautious with quick decisions, they may backfire.</string>
+    <string name="luck_2">Your patience will soon pay off in unexpected ways.</string>
+    <string name="luck_3">Do not ignore small details, they hide important truths.</string>
+    <string name="luck_4">A financial gain is possible, but avoid unnecessary risks.</string>
+    <string name="luck_5">Your generosity today will be remembered tomorrow.</string>
+    <string name="luck_6">Trust your instincts, but don’t dismiss advice too quickly.</string>
+    <string name="luck_7">Love may bloom, but honesty will be your greatest ally.</string>
+    <string name="luck_8">A conflict at work can be avoided with diplomacy.</string>
+    <string name="luck_9">Your energy will attract opportunities—use it wisely.</string>
+    <string name="luck_10">A hidden truth may surface, be prepared to face it.</string>
+    <string name="luck_11">Your determination will overcome an obstacle ahead.</string>
+    <string name="luck_12">Avoid overspending; financial balance is crucial now.</string>
+    <string name="luck_13">A long-awaited answer will finally bring relief.</string>
+    <string name="luck_14">Jealousy from others may test your confidence.</string>
+    <string name="luck_15">Your creativity will turn a problem into a solution.</string>
+    <string name="luck_16">Beware of rushing into commitments without clarity.</string>
+    <string name="luck_17">A kind word today will strengthen an important bond.</string>
+    <string name="luck_18">Someone’s criticism may sting, but it hides useful advice.</string>
+    <string name="luck_19">A new opportunity will challenge you to grow quickly.</string>
+    <string name="luck_20">Do not ignore your health—rest will restore your strength.</string>
+
+
 </resources>

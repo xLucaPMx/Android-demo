@@ -15,7 +15,7 @@
 
     <style name="Body" parent="Title">
         <item name="android:textStyle">bold</item>
-        <item name="android:textColor">@color/purple_inactive</item>
+        <item name="android:textColor">@color/purple_primary_dark</item>
         <item name="android:textSize">30sp</item>
     </style>
 </resources>
